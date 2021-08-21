@@ -1,1 +1,1 @@
-The Social Distancing Detector is able to detect if the crowd is following social distancing and marks the people who are not in safe distances with a red box and the safe people with a green box.
+The Social Distancing and Face Mask Detector is able to detect if the people are wearing face mask properly or not and  the crowd is following social distancing and marks the people who are not in safe distances with a red box and the safe people with a green box.
